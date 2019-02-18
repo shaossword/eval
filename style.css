@@ -1,0 +1,97 @@
+a {
+    margin: 5px;
+    font-size: 20px;
+    color: white;
+}
+h1 {
+    margin-top: 0;
+    font-size: 50px;
+
+}
+
+h3 {
+    margin: 5px;
+    color: rgb(146, 146, 146);
+}
+i {
+    margin: 3px;
+}
+body {
+    margin: 0;
+}
+nav {
+   
+    background-color: aqua;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+ul {
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+   
+}
+li {
+    margin: 5px;
+}
+.contenaire {
+    background-color: rgb(102, 117, 122);
+    width: 100%;
+    height: 400px;
+    display: flex;
+    justify-content: center;
+
+    
+}
+.body {
+width: 70%;
+
+display: flex;
+    justify-content: center;
+}
+.middle {
+    
+    display: flex;
+
+flex-direction: column;
+justify-content: center;
+
+}
+
+
+footer {
+    
+   
+    background-color: black;
+display: flex;
+justify-content: center;
+
+}
+.foot {
+    width: 70%;
+ 
+
+}
+.haut {
+    margin: 50px;
+   
+    display: flex;
+    flex-direction: row;
+}
+.ref {
+    margin: 25px;
+    display: flex;
+    flex-direction: column
+}
+.social {
+    width: 100%;
+    margin: 25px;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+}
+.bas {
+    background-color: rgb(80, 129, 95);
+}
